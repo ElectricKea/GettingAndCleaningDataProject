@@ -1,4 +1,4 @@
-#Getting and cleaning data course project codebook
+# Getting and cleaning data course project codebook
     
 ### Grouped variables
 * subjects - People who participated in the experiment
