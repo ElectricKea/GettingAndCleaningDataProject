@@ -4,6 +4,7 @@
 * subjects - People who participated in the experiment
     + 1 to 30  
 <br>
+
 * activities - Various activity states
     + WALKING
     + WALKING_UPSTAIRS
