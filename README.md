@@ -1,7 +1,7 @@
-#Getting and cleaning data course project
+# Getting and cleaning data course project
 
 Completed as part of the Getting and Cleaning Data course.
-The data was collected from accelerometers from the Samsung Galaxy S smartphone.
+The data was collected from accelerometers from the Samsung Galaxy S smartphone.  
 Data downloaded from:
 <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
 
