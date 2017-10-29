@@ -30,4 +30,4 @@ grouped_data<-group_by(data_full, subject, activity)
 grouped_mean_data<-summarise_all(grouped_data, funs(mean))
 
 #Write the grouped mean data to a text file in table format
-write.table(grouped_mean_data, "tidy_data.txt")
+write.table(grouped_mean_data, "tidy_data.txt", row.name = FALSE)
